@@ -85,8 +85,8 @@ class Cafeteria
     end
     
     def main_course
-        tray = @tray
-        main_menu = @main_menu
+        # tray = @tray
+        # main_menu = @main_menu
         main_choice = gets.to_i
     
         if main_choice == 1
