@@ -26,6 +26,12 @@ Bonus Objectives:
 #     end
 # end
 
+########################## NOTES for TA
+# Pain points in this project are classes, displaying hashes in a nice format, nesting hashes inside of other hashes
+# I also didn't know how to use my _spec.rb & did the full install but no longer used it after that. 
+# being able to type quit at anytime was also returning errors.
+########################## - Ricky
+
 class Cafeteria
     def initialize
         wallet = @wallet
